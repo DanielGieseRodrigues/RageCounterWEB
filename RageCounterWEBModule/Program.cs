@@ -18,6 +18,7 @@ namespace RageCounterWEBModule
             string teste = "oifjdoisjfiodsj";
             //eu te odeio pok
             CreateWebHostBuilder(args).Build().Run();
+            string teste2 = "OIJoifjdsoifsd";
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
